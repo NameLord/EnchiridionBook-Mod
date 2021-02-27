@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "enchiridionbook:items/b7c06dbcd1181912399313b204bea312"
+  }
+}
